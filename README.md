@@ -40,15 +40,6 @@ I care about understanding things from first principles, whether that’s an alg
 
 ---
 
-## 📂 What you’ll find here
-Pinned repositories usually include:
-- Learning-focused ML and CV implementations
-- Small but well-thought-out web applications
-- Electronics and systems projects with clear reasoning
-- Experiments where the process matters as much as the result
-
----
-
 ## 📫 Contact
 - GitHub: you’re already here  
 - Email: *shauryatamang.dev@gmail.com*
