@@ -22,21 +22,12 @@ I care about understanding things from first principles, whether that’s an alg
 
 ---
 
-## 🧠 Project philosophy
-- Understanding > abstraction
-- Avoid black boxes unless I can explain what’s inside
-- Design first, optimize later
-- Document decisions, failures, and trade-offs
-- Prefer simple, explainable solutions over clever hacks
-
----
-
 ## 🛠 Tools & technologies
 - **Languages:** Python, C/C++, JavaScript
 - **ML / Data:** NumPy, Pandas, Matplotlib, PyTorch
 - **Web:** HTML, CSS, React, NodeJS
-- **Systems & Tools:** Git, Linux
-- **Hardware:** Arduino, Esp32
+- **Systems & Tools:** Git, KiCAD, FreeCAD, Linux
+- **Hardware:** Arduino, Esp32, STM32
 
 ---
 
