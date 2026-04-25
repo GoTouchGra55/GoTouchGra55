@@ -6,7 +6,7 @@ I care about understanding things from first principles, whether that’s an alg
 ---
 
 ## 🔍 Core interests
-- Deep Learning and Reinforcement Learning (theory + implementation)
+- Deep Learning and Reinforcement Learning
 - Computer Vision and signal-based reasoning
 - Systems thinking: how software, math, and hardware interact
 - Electronics and microcontroller-based projects
@@ -15,8 +15,6 @@ I care about understanding things from first principles, whether that’s an alg
 ---
 
 ## 🎯 Current focus
-- Strengthening math foundations (linear algebra, probability, optimization)
-- Re-implementing core ML algorithms to truly understand them
 - Building end-to-end projects that combine reasoning, code, and documentation
 - Improving code clarity, structure, and design decisions
 
@@ -25,18 +23,12 @@ I care about understanding things from first principles, whether that’s an alg
 ## 🛠 Tools & technologies
 - **Languages:** Python, C/C++, JavaScript
 - **ML / Data:** NumPy, Pandas, Matplotlib, PyTorch
-- **Web:** HTML, CSS, React, NodeJS
-- **Systems & Tools:** Git, KiCAD, FreeCAD, Linux
+- **Web:** React, TailwindCSS, NodeJS
+- **Systems & Tools:** Git, KiCAD, FreeCAD, Ubuntu
 - **Hardware:** Arduino, Esp32, STM32
 
 ---
 
 ## 📫 Contact
-- GitHub: you’re already here  
 - Email: *shauryatamang.dev@gmail.com*
 - Personal site: https://shauryatamang.netlify.app
-
----
-
-> I’m not trying to build everything.  
-> I’m trying to build things I can **fully understand and defend**.
