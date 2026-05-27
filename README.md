@@ -1,27 +1,25 @@
 # Hi, I'm Shaurya 👋
 
-Maker | Developer | First-principles thinker  
-Building systems that combine **hardware**, **software**, and **reasoning**.
+Maker | Developer | Professional over-engineer  
+Building unnecessarily complex systems that *probably* work first try (they don't).
 
 ---
 
 ## Featured Projects
 
-**Hardware & Robotics**
-- [GRAVITAS](https://github.com/GoTouchGra55/GRAVITAS) — Rocket flight computer (C)
-- [J.O.L.T](https://github.com/GoTouchGra55/J.O.L.T) — Custom quadruped robot with onboard devboard (C)
-- [AERIS](https://github.com/GoTouchGra55/AERIS) — CoreXY 3D printer (300mm³)
-- [Duodec](https://github.com/GoTouchGra55/Duodec) — 12-key macro pad (Python)
+**Hardware & Robotics** (i.e., why I need a bigger workbench)
+- [GRAVITAS](https://github.com/GoTouchGra55/GRAVITAS) — Rocket flight computer (because why use someone else's?)
+- [J.O.L.T](https://github.com/GoTouchGra55/J.O.L.T) — Custom quadruped robot (it walks... mostly)
+- [AERIS](https://github.com/GoTouchGra55/AERIS) — CoreXY 3D printer (300mm of printing ambition)
+- [Duodec](https://github.com/GoTouchGra55/Duodec) — 12-key macro pad (fewer keyboard shortcuts, more problems)
 
-**AI & Computer Vision**
-- [Guardian-AI](https://github.com/GoTouchGra55/Guardian-AI) — LLM prompt injection detection (Python)
-- [Impactor-2025](https://github.com/GoTouchGra55/Impactor-2025) — NASA Space Apps hackathon project (JavaScript)
-- [blackjack-agent](https://github.com/GoTouchGra55/blackjack-agent) — Reinforcement learning agent (Python)
+**AI & Computer Vision** (teaching machines to see what I see)
+- [Impactor-2025](https://github.com/GoTouchGra55/Impactor-2025) — NASA Space Apps hackathon project (we didn't crash)
+- [blackjack-agent](https://github.com/GoTouchGra55/blackjack-agent) — RL agent that beats me at cards (barely)
 
-**Software**
-- [ThoughtBox](https://github.com/GoTouchGra55/ThoughtBox) — MERN note-taking app (JavaScript)
-- [C-shell](https://github.com/GoTouchGra55/C-shell) — Unix/Linux command-line shell (C)
-- [Portfolio](https://github.com/GoTouchGra55/Portfolio) — Personal portfolio (JavaScript)
+**Software** (the stuff that actually works)
+- [C-shell](https://github.com/GoTouchGra55/C-shell) — Unix/Linux shell (reinventing the wheel, one syscall at a time)
+- [Portfolio](https://github.com/GoTouchGra55/Portfolio) — where I flex my code
 
 ---
 
@@ -30,13 +28,14 @@ Building systems that combine **hardware**, **software**, and **reasoning**.
 **Languages:** Python • C/C++ • JavaScript  
 **ML/Data:** PyTorch • NumPy • Pandas  
 **Web:** React • TailwindCSS • Node.js  
-**Hardware:** Arduino • ESP32 • STM32 • KiCAD • FreeCAD
+**Hardware:** Arduino • ESP32 • STM32 • KiCAD • FreeCAD  
+**Superpowers:** First-principles thinking, over-engineering, eternal debugging
 
 ---
 
 ## About
 
-I'm interested in **deep learning**, **computer vision**, **aerospace engineering**, and **electrical engineering**. I build projects end-to-end, from circuit design to firmware to full-stack applications. Always learning from first principles.
+I'm into **deep learning**, **computer vision**, **aerospace**, and **electrical engineering**. I build weird things that combine circuits, code, and questionable life choices. Always learning. Always debugging. Always building.
 
 📧 shauryatamang.dev@gmail.com  
 🌐 [shauryatamang.netlify.app](https://shauryatamang.netlify.app)
